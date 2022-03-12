@@ -1,12 +1,15 @@
-##### Day4 #####
+# ##### Day4 #####
 
-# import Day4.assign_print
-# import Day4.struct_func
-# import Day4.input
-# import Day4.list
+# import Days.Day4.assign_print
+# import Days.Day4.struct_func
+# import Days.Day4.input
+# import Days.Day4.list
 
 ##### Day5 #####
 
 # import Day5.list
-import Day5.dictionary
-import Day5.dict_method
+# import Days.Day5.dictionary
+# import Days.Day5.dict_method
+
+##### Day 6 #####
+import Days.Day6.complex_type
