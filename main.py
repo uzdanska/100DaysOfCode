@@ -8,5 +8,8 @@
 ##### Day5 #####
 
 # import Day5.list
-import Day5.dictionary
-import Day5.dict_method
+# import Day5.dictionary
+# import Day5.dict_method
+
+##### Day 6 #####
+import Day6.complex_type
