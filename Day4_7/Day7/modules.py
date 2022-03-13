@@ -1,4 +1,4 @@
- import all module
+import all module
 import re
 my_regex = re.compile("[0-9] + ", re.I)
 print(my_regex)
