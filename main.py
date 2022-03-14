@@ -24,3 +24,4 @@
 import Week2.Day8.function
 import Week2.Day8.string
 import Week2.Day8.try_except
+import Week2.Day8.list

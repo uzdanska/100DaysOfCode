@@ -4,5 +4,4 @@ b =  int(input("Enter the second value: "))
 try:
     print(a / b)
 except ZeroDivisionError:
-    print("
-You cannot divide by zero")
+    print("You cannot divide by zero")
