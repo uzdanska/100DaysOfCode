@@ -58,4 +58,3 @@ for i in range(len(lista)):
     lista[5:9] = [-80, 23, 55, 2] # wartości od 6 do 9
     lista[-3:] = [-5, -9, 112] 
     print('lista[{}] = {}'.format(i, lista[i]))
-
