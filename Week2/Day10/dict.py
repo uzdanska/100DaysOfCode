@@ -59,3 +59,30 @@ num_person = len(booksInTheLibrary)
 print('\n############\n')
 
 print('Person in Library = {}'.format(num_person))
+
+# print('\n############\n')
+
+instagram = {
+    'name': 'anna_male',
+    'followers': '1257',
+    'hastags': ['#travel', '#ootd', '#photo']
+}
+
+### the dict allow you to have a look at all the keys
+insta_keys = instagram.keys() ## list of 
+insta_values = instagram.values() ## list of values
+insta_items = instagram.items() ## list tuples (keys, values)
+
+print(insta_keys)
+
+print('\n############\n')
+
+print(insta_values)
+
+print('\n############\n')
+
+
+# 'name' in instagram ## check if 'name' is in the dict insta
+if 'anna_male' in insta_values:
+    print('The user {} is in the instagram.'.format(instagram['name']))
+    print('{} has a {} followers and using this person using hashtags like {}'.format(instagram['name'], instagram['followers'], instagram['hastags']))
