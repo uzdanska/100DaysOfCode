@@ -1,7 +1,8 @@
-# 100 Days of Python ![python-logo-master-v3-TM](https://user-images.githubusercontent.com/79830582/158981678-dba7a632-b050-49d9-865a-893f5ed68421.png = 150x150)
+# 100 Days of Python ![python-logo-master-v3-TM](https://user-images.githubusercontent.com/79830582/158982127-0f79693f-5a2c-462c-929b-14ccb6fd3f3e.png | width = 100px)
+
 
 | Day | Topics                                                    |
 |-----|:---------------------------------------------------------:|
 | 01  | [Inroduction](./README.md)
-| 02  | [
+| 02  | 
 
