@@ -1,5 +1,4 @@
-# 100 Days of Python ![python-logo-master-v3-TM](https://user-images.githubusercontent.com/79830582/158982127-0f79693f-5a2c-462c-929b-14ccb6fd3f3e.png | width = 100px)
-
+# 100 Days of Python ![download](https://user-images.githubusercontent.com/79830582/158982295-97071225-2f2c-4a6e-9e94-56f7f14bc62f.jpg)
 
 | Day | Topics                                                    |
 |-----|:---------------------------------------------------------:|
