@@ -25,3 +25,14 @@ print('\n############\n')
 newB2 = sorted(b, reverse=True)
 print(newB2)
 
+
+x = [3, 2 , 6, 2, 4, 1, 9]
+y = sorted(x)
+x.sort()
+y1 = sorted(x, reverse=True)
+print(y)
+print('\n############\n')
+print(y1)
+
+
+ 
